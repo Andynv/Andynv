@@ -1,4 +1,4 @@
-Hi 👋, I'm Andrea.
+Hi 👋, my name's Andrea.
 
 I'm a Full-Stack Developer who loves to learn, currently going from a hostelry background into the tech field with knowledge in the technologies listed below.
 
