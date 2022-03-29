@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋, I'm Andrea - Full-Stack Developer.
 
-<!--
-**Andynv/Andynv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tireless seeker of the 'why' of things, and finding both a good and efficient way of solving problems.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Here you can find all my projects deployed: [https://github.com/Andynv?tab=repositories](https://github.com/Andynv?tab=repositories)
+
+- 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/)
+
+- ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Git, Node JS, Phyton, Express, SQL, Sequelize.
+
+![Esta es una imagen](https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=800x600&vertical=top)
