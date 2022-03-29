@@ -1,6 +1,8 @@
 Hi 👋, I'm Andrea - Full-Stack Developer.
 
-I'm a tireless seeker of the 'why' of things, and finding both a good and efficient way of solving problems.
+I'm a Full-Stack Developer who loves to learn, currently going from a hostelry background into the tech field with knowledge in the technologies listed below.
+
+Passionate about design, problem solving and web development.
 
 - 🌱 I’m currently learning: TypeScript
 
