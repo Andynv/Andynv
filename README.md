@@ -10,6 +10,6 @@ Passionate about design, problem solving and web development.
 
 - 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/)
 
-- ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Git, Node JS, Phyton, Express, SQL, Sequelize.
+- ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Tailwind, Git, Node JS, Phyton, Express, SQL, Sequelize.
 
 ![Esta es una imagen](https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=800x600&vertical=top)
