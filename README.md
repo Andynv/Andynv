@@ -6,9 +6,9 @@ Passionate about design, problem solving and web development.
 
 - 🌱 I’m currently learning: TypeScript
 
-- 👨‍💻 Here you can find all my projects deployed: [https://github.com/Andynv?tab=repositories](https://github.com/Andynv?tab=repositories)
+- 👨‍💻 Here you can find all my projects deployed: [https://github.com/Andynv?tab=repositories](https://github.com/Andynv?tab=repositories).
 
-- 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/)
+- 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/).
 
 - ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Tailwind, Git, Node JS, Phyton, Express, SQL, Sequelize.
 
