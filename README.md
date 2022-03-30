@@ -4,7 +4,7 @@ I'm a Full-Stack Developer who loves to learn, currently going from a hostelry b
 
 Passionate about design, problem solving and web development.
 
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: TypeScript.
 
 - 👨‍💻 Here you can find all my projects deployed: [https://github.com/Andynv?tab=repositories](https://github.com/Andynv?tab=repositories).
 
