@@ -6,7 +6,7 @@ Passionate about design, problem solving and web development.
 
 - 🌱 I’m currently learning: TypeScript.
 
-- 👨‍💻 Here you can find all my projects deployed: [https://github.com/Andynv?tab=repositories](https://github.com/Andynv?tab=repositories).
+- 👨‍💻 Portfolio: [https://portfolio-eosin-theta.vercel.app/](https://portfolio-eosin-theta.vercel.app/).
 
 - 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/).
 
