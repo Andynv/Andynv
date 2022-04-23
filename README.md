@@ -6,8 +6,6 @@ Passionate about design, problem solving and web development.
 
 - 🌱 I’m currently learning: TypeScript.
 
-- 👨‍💻 Portfolio: [https://portfolio-eosin-theta.vercel.app/](https://portfolio-eosin-theta.vercel.app/).
-
 - 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/).
 
 - ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Tailwind, Git, Node JS, Phyton, Express, SQL, Sequelize.
