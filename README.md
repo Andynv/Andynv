@@ -1,7 +1,10 @@
 <h2>Hi! I'm Andrea, Full stack developer</h2>
+Currentyke working: ![Travel App](https://deploy-travelapp.herokuapp.com/)
 <p align="center">
-    <img align='right' src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c6a1aa280c6b29ffda46ae6d9eef05ad9bf05cb&rid=giphy.gif&ct=g" >
+    <imgsrc="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c6a1aa280c6b29ffda46ae6d9eef05ad9bf05cb&rid=giphy.gif&ct=g" >
 </p>
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -23,8 +26,6 @@ const Andrea = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],   
 };
-
-
 
 ```
 
