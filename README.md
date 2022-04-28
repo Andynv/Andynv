@@ -1,15 +1,30 @@
-Hi 👋, my name's Andrea.
+<h2>नमस्ते Hi! I'm Andrea, 👩🏽‍💻 Full stack developer</h2>
+<img align='right' src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c6a1aa280c6b29ffda46ae6d9eef05ad9bf05cb&rid=giphy.gif&ct=g" width="230">
 
-I'm a Full-Stack Developer who loves to learn, currently going from a hostelry background into the tech field with knowledge in the technologies listed below.
+[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-ovalles-developer/)](https://www.linkedin.com/in/andrea-ovalles-developer/)
 
-Passionate about design, problem solving and web development.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on: [Travel App](https://deploy-travelapp.herokuapp.com/)
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python",],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["materialize", "tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo", "MySql", "postgresql"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: [Travel App](https://deploy-travelapp.herokuapp.com/),
+};
+```
 
-- 🌱 I’m currently learning: Java.
-
-- 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/).
-
-- ⭐ Skills: HTML, CSS, Javascrip, React, Redux, Tailwind, Git, Node JS, Phyton, Express, SQL, Sequelize.
-
-![Esta es una imagen](https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=800x600&vertical=top)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
