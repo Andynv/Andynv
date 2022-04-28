@@ -4,7 +4,9 @@ I'm a Full-Stack Developer who loves to learn, currently going from a hostelry b
 
 Passionate about design, problem solving and web development.
 
-- 🌱 I’m currently learning: TypeScript.
+- 🔭 I’m currently working on: [Travel App](https://deploy-travelapp.herokuapp.com/)
+
+- 🌱 I’m currently learning: Java.
 
 - 📫 How to reach me: andreaovallesc@gmail.com, [Linkedin Profile](https://www.linkedin.com/in/andrea-ovalles-developer/).
 
