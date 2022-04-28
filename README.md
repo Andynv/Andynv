@@ -2,9 +2,6 @@
 <p align="center">
     <img align='right' src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c6a1aa280c6b29ffda46ae6d9eef05ad9bf05cb&rid=giphy.gif&ct=g" >
 </p>
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-ovalles-developer/)](https://www.linkedin.com/in/andrea-ovalles-developer/)
-currentProject: [!Travel App](https://deploy-travelapp.herokuapp.com/),
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
