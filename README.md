@@ -22,9 +22,9 @@ const andrea = {
             css: ["materialize", "sass", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql", "postgresql"],
+        databases: ["Mongo", "MySql", "Postgresql"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],   
