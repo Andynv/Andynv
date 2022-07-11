@@ -13,8 +13,7 @@
 
 ```js
 const andrea = {
-    pronouns: "She" | "Her",
-    code: ["Javascript", "Python",],
+    code: ["Javascript",
     askMeAbout: ["web dev", "tech", "medicine"],
     technologies: {
         frontEnd: {
