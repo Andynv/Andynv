@@ -4,8 +4,5 @@
 
 <p align="center">
     <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c6a1aa280c6b29ffda46ae6d9eef05ad9bf05cb&rid=giphy.gif&ct=g" >
-</p>
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+</p> 
 ---
